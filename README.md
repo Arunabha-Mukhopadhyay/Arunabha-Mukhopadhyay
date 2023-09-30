@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabha-mukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="arunabha-mukhopadhyay" /> </p>
 
-- 🔭 I’m currently studying in **Symbiosis Institute of Technology**
+- 🔭 I’m currently studying in **Symbiosis Institute of Technology FY-CSE**
 
 - 🌱 I’m currently learning **c++,Python,HTML-CSS,Javascript**
 
