@@ -83,11 +83,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
 
-  <!-- AI & Blockchain -->
-  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-
   <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Blockchain" width="40" height="40"/>
   </a>
@@ -98,8 +93,8 @@
 
 ### 🚀 Current Goals:
 - 🚧 Mastering full-stack development with complex React + Node.js apps
-- 🤖 Exploring Generative AI with tools like ChatGPT, TensorFlow, and OpenAI APIs
-- 🔗 Working on decentralized projects leveraging the Ethereum ecosystem
+- 🤖 Exploring Generative AI with tools like ChatGPT, and OpenAI APIs, LangChain,VectorDB(Pinecone,FAISS),LangGraph. 
+- 🔗 Working on decentralized projects leveraging the Ethereum ecosystem, and with Web3-JS
 
 ---
 
